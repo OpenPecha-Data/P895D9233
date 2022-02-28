@@ -1,0 +1,23 @@
+id: P895D9233
+initial_creation_type: input
+source_metadata:
+  title: Lobzang Chökyi Gyaltsen
+  language: en
+  description: 'Texts by and about Lobzang Chökyi Gyaltsen (blo bzang chos kyi rgyal
+    mtshan, 1570–1662), the first or fourth Paṇchen Lama (depending on the method
+    of counting), a prolific author and teacher of the Fifth Dalai Lama:'
+  volume:
+    6123ded971424dc9b713076aa6d874cd:
+      title: A Method of Confessing and Pledging through the Four Powers
+      parent: Confession
+    1bca5a49289b4f298ba78d2650fa74be:
+      title: Method of Confession based on the Four Powers
+      parent: Confession
+    ca4665797fdf4a2583ea43e3382e743c:
+      title: Rays of Moonlight to Dispel the Darkness of Misdeeds
+      parent: Confession
+    b2778fffe29948ef8751f06b9b6b3dab:
+      title: 'Lasel Chenmo: A Sang Offering to the Nāgas'
+      parent: Offering Rites
+created_at: '2022-03-01T00:37:38.007792'
+last_modified_at: '2022-03-01T00:37:38.007798'
